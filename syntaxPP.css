@@ -1,0 +1,53 @@
+pre,code{
+    margin-top: -18px;
+    background: white !important;
+    margin:0 !important;
+    border-radius: 0 !important;
+    border:none !important;
+    padding: 0 !important;
+    margin-left: 4px !important;
+	
+	overflow-y:hidden;
+  }
+    .syntaxPP {
+  display: flex;
+  padding: 16px;
+  border: 2px solid grey;
+}
+.count {
+    display: inline-flex;
+	color: grey;    
+    word-break: keep-all;
+    border-right:1px solid black;
+    line-height: 1.4;
+	padding-right:3px;
+	
+}
+.code {
+  display: inline-flex;
+  width: 75%;
+  line-height: 1.4;
+  margin-left: 1%;
+}
+.file-name{
+  display: inline-block;
+  border:2px solid grey;
+  border-bottom: none;
+  padding:1px 5px;
+  margin:0;
+}
+.cmt{
+  color:green;
+}
+.attr-value{
+color:#8b33ff;
+}
+.tag{
+		color:blue;
+	}
+	pre span{
+		color: red;
+	}
+.script{
+	background:#f2f4ff;
+}
