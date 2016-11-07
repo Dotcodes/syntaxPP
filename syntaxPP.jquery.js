@@ -30,4 +30,3 @@ code = code
 
 }(jQuery));
 
-//$("#code").before('<div class="syntaxPP"><div class="count"></div><div class="code">'+dataCode+'</div>').remove();  
