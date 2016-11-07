@@ -11,7 +11,7 @@ The syntax++ is very simple syntax high lighter to hightlight the syntax of html
 First adding the javascript and css file to your webpage
 ```html
 <link rel="stylesheet" href="/path/to/styles/syntaxPP.css">
-<script src="/path/to/syntaxPP.js"></script>
+<script src="/path/to/syntaxPP.jquery.js"></script>
 ```
 ## How to
 Place your code within the pre,code tags on your webpage.
