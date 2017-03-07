@@ -4,7 +4,7 @@
  
         // Default options
         var settings = $.extend({
-            filename: 'Default.html',
+            filename: 'Default.html'
             
         }, options );
 var code = this.html();
