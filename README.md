@@ -24,7 +24,6 @@ And place the javascript codes within the script tags
 ```javascript
 $(document).ready(function() {
   $('pre code').syntaxPP({filename:'index.html'});
-  });
 });
 ```
 
